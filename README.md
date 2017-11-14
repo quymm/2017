@@ -1,1 +1,2 @@
-# 2017
+# HOW TO USE
+https://desktop.github.com/
