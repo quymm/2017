@@ -1,2 +1,2 @@
-# HOW TO USE
+### Tool
 https://desktop.github.com/
