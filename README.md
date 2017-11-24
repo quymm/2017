@@ -6,7 +6,9 @@
 
 **Sau khi đăng nhập, chọn chức năng "Clone Repository"**
 
-![Clone]({{site.baseurl}}/http://hackathon.binhduongsmartcity.vn/img/Clone.png)
+<p align="center">
+  <img src="http://hackathon.binhduongsmartcity.vn/img/Clone.png"/>
+</p>
 
 **Chọn tab URL, điền vào https://github.com/BinhDuongHackathon/2017**
 
