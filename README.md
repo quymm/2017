@@ -8,6 +8,8 @@
 ![Clone.png]({{site.baseurl}}/Clone.png)
 
 **Chọn tab URL, điền vào https://github.com/BinhDuongHackathon/2017**
+![Repository.png]({{site.baseurl}}/Repository.png)
+
 
 
 
