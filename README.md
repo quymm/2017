@@ -5,13 +5,13 @@
 **Cài đặt Tool** [https://desktop.github.com/](https://desktop.github.com/)
 
 **Sau khi đăng nhập, chọn chức năng "Clone Repository"**
-![Clone]({{site.baseurl}}/https://drive.google.com/open?id=1y-Ophhie27hA5ZRuLOvt0TzCngnyAQUj)
+![Clone](https://drive.google.com/open?id=1y-Ophhie27hA5ZRuLOvt0TzCngnyAQUj)
 
 **Chọn tab URL, điền vào https://github.com/BinhDuongHackathon/2017**
-![Repository]({{site.baseurl}}/https://drive.google.com/open?id=1e7m2mbHtRmvs6e5_6Z6O48NM4RKgffcw)
+![Repository](https://drive.google.com/open?id=1e7m2mbHtRmvs6e5_6Z6O48NM4RKgffcw)
 
 **Mở Repository trên máy cá nhân**
-![Local Folder]({{site.baseurl}}/https://drive.google.com/open?id=1LJ1uu2xm3V1JWnzl9BKzKl4A8dMdXbUs)
+![Local Folder](https://drive.google.com/open?id=1LJ1uu2xm3V1JWnzl9BKzKl4A8dMdXbUs)
 
 **Tạo Folder là tên đội thi của bạn - lưu ý chỉ một người trong nhóm tạo**
 
@@ -20,7 +20,7 @@
 **Để kiểm tra sự thay đổi, chọn "Fetch origin" trên toolbar**
 
 **Để cập nhật nội dung, chọn "Commit to master" button góc dưới bên trái**
-![Commit Change]({{site.baseurl}}/https://drive.google.com/open?id=1Lj0IOATPa0JDUl8RrTj25BJpTo5Xq0y-)
+![Commit Change](https://drive.google.com/open?id=1Lj0IOATPa0JDUl8RrTj25BJpTo5Xq0y-)
 
 _**Bước tiếp theo bạn phải đưa thông tin lên server Github, chọn chức năng "Push origin" trên toolbar**_
 
