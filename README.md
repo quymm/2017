@@ -12,11 +12,15 @@
 
 **Chọn tab URL, điền vào https://github.com/BinhDuongHackathon/2017**
 
-![Repository](https://drive.google.com/open?id=1e7m2mbHtRmvs6e5_6Z6O48NM4RKgffcw)
+<p align="center">
+  <img src="http://hackathon.binhduongsmartcity.vn/img/Repository.png"/>
+</p>
 
 **Mở Repository trên máy cá nhân**
 
-![Local Folder](https://drive.google.com/open?id=1LJ1uu2xm3V1JWnzl9BKzKl4A8dMdXbUs)
+<p align="center">
+  <img src="http://hackathon.binhduongsmartcity.vn/img/LocalFolder.png"/>
+</p>
 
 **Tạo Folder là tên đội thi của bạn - lưu ý chỉ một người trong nhóm tạo**
 
@@ -26,7 +30,9 @@
 
 **Để cập nhật nội dung, chọn "Commit to master" button góc dưới bên trái**
 
-![Commit Change](https://drive.google.com/open?id=1Lj0IOATPa0JDUl8RrTj25BJpTo5Xq0y-)
+<p align="center">
+  <img src="http://hackathon.binhduongsmartcity.vn/img/Commit.png"/>
+</p>
 
 _**Bước tiếp theo bạn phải đưa thông tin lên server Github, chọn chức năng "Push origin" trên toolbar**_
 
