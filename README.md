@@ -5,7 +5,9 @@
 **Cài đặt Tool** [https://desktop.github.com/](https://desktop.github.com/)
 
 **Sau khi đăng nhập, chọn chức năng "Clone Repository"**
-![Clone](https://drive.google.com/open?id=1y-Ophhie27hA5ZRuLOvt0TzCngnyAQUj)
+<p align="center">
+  <img src="https://drive.google.com/open?id=1y-Ophhie27hA5ZRuLOvt0TzCngnyAQUj" width="350"/>
+</p>
 
 **Chọn tab URL, điền vào https://github.com/BinhDuongHackathon/2017**
 ![Repository](https://drive.google.com/open?id=1e7m2mbHtRmvs6e5_6Z6O48NM4RKgffcw)
